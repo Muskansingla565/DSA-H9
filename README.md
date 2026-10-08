@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Muskansingla565/DSA-H9/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/Muskansingla565/DSA-H9/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Muskansingla565/DSA-H9/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Muskansingla565/DSA-H9/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
