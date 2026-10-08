@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Muskansingla565/DSA-H9/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/Muskansingla565/DSA-H9/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muskansingla565/DSA-H9/tree/master/0160-intersection-of-two-linked-lists) |
 ## Backtracking
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muskansingla565/DSA-H9/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/Muskansingla565/DSA-H9/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muskansingla565/DSA-H9/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
 |  |
 | ------- |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muskansingla565/DSA-H9/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Muskansingla565/DSA-H9/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
